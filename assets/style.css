@@ -222,7 +222,7 @@ x.fa:hover {
 .index-pic{
     display: inline-block;
     animation: morph 8s ease-in-out infinite;
-    background-image: url(/images/profle\ picture.jpeg);
+    background-image: url(/images/profle/picture.jpeg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
