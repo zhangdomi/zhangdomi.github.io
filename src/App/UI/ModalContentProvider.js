@@ -3,11 +3,11 @@ export default class ModalContentProvider {
       this.modalContents = {
         aboutMe: {
           title: 'About me',
-          description: 'I\'m a rising sophomore at the University of Michigan, where I study Math & CS. <br> I\'m also the <i>Co-President</i> of Michigan Finance & Math Society, <b>MFAMS</b>  <br> <a href="https://www.linkedin.com/in/zhang-yu-jie/" target="_blank" rel="noopener noreferrer">LinkedIn</a>',
+          description: 'I\'m a sophomore at the University of Michigan, where I study Math & CS. <br> I\'m also the <i>Co-President</i> of Michigan Finance & Math Society, <b>MFAMS</b>  <br> <a href="https://www.linkedin.com/in/zhang-yu-jie/" target="_blank" rel="noopener noreferrer">LinkedIn</a>',
         },
         projects: {
           title: 'Projects',
-          description: '<a href="https://github.com/zhangdomi" target="_blank" rel="noopener noreferrer">Orderbook</a>: A three level orderbook that supports <b>ordertypes</b> such as <i>Fill and Kill</i>, <i>Fill or Kill</i>, <i>Good \'Til Cancel</i> and key <b>operations</b> such as <i>add, cancel or modify</i> <br> <br> <a href="https://github.com/zhangdomi" target="_blank" rel="noopener noreferrer">Euchre</a>: A Mid-Western card game simulator allowing at most 4 human players to play simultaneously <br> <br> More coming...',
+          description: '<a href="https://github.com/zhangdomi/southpark" target="_blank" rel="noopener noreferrer">South Park Portfolio</a>: A portfolio inspired by South Park that outperforms the S&P 500 <br> <br> <a href="https://github.com/pppucbuc/Mhacks17-96" target="_blank" rel="noopener noreferrer">Sqoreo</a>: Web-based conversational AI that personalizes recommendations for areas of improvements in a student"'"s grade in a course after entering existing grades. MHACKS 17 project<br> <br> <a href="https://github.com/zhangdomi" target="_blank" rel="noopener noreferrer">Orderbook</a>: A three level orderbook that supports <b>ordertypes</b> such as <i>Fill and Kill</i>, <i>Fill or Kill</i>, <i>Good \'Til Cancel</i> and key <b>operations</b> such as <i>add, cancel or modify</i> <br> <br> <a href="https://github.com/zhangdomi" target="_blank" rel="noopener noreferrer">Euchre</a>: A Mid-Western card game simulator allowing at most 4 human players to play simultaneously <br> <br> More coming...',
         },
         contactMe: {
           title: 'Course Reviews',
